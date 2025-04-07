@@ -75,15 +75,8 @@ Neste exemplo, há um erro proposital no frame que será corrigido automaticamen
 
 ## 📚 Explicação em Vídeo
 
-Você deve produzir um vídeo explicando:
 
-- O protocolo desenvolvido
-- A estrutura do frame
-- Como funciona o código de Hamming
-- Como a correção de erro acontece
-- Demonstração com `sender | receiver`
-
-Sugestão: mantenha o vídeo com até **5 minutos** e seja direto ao ponto!
+Para assistir o vídeo de explicação, clique [aqui.](https://youtu.be/CXzDBQ_ygmE)
 
 ---
 
