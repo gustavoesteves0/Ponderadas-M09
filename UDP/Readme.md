@@ -96,4 +96,4 @@ Gravei um vídeo de até **5 minutos** explicando:
 - Como foi feita a implementação em Python
 - Demonstração de execução do cliente e servidor
 
-📽️ Link do vídeo: **[inserir aqui o link do vídeo (YouTube, Google Drive, etc.)]**
+📽️ Link do vídeo [aqui.](https://youtu.be/aDMOGSQBm3s)
