@@ -7,7 +7,7 @@ def iniciar_servidor_udp(host='localhost', port=12345):
     """
     # Cria um socket UDP
     servidor = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-    servidor.bind((host, port))
+    servidor.bind((host, port)) # Associa o socket a um endereço e porta
     print(f"Servidor UDP rodando em {host}:{port}...")
 
     while True:

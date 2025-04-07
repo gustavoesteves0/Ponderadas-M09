@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import sys
 
 def hamming_encode(bit_str):
